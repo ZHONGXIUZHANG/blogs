@@ -536,3 +536,5 @@ enableEmoji = true
   email = "zhongxiuzhang@163.com"
   link = "https://zhongxiu.me"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
